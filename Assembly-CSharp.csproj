@@ -48,10 +48,18 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Fire.cs" />
+    <Compile Include="Assets\Scripts\Mine\OutoFire_shooting.cs" />
+    <Compile Include="Assets\Scripts\Mine\Move_shooting.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Mine\Item_shooting.cs" />
+    <Compile Include="Assets\Scripts\Mine\Bullet_shooting.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\PlayerFire.cs" />
     <Compile Include="Assets\Bye\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Scripts\Move.cs" />
+    <Compile Include="Assets\Scripts\Mine\MiniFlight_shooting.cs" />
+    <Compile Include="Assets\Scripts\Mine\ItemSpawner_shooting.cs" />
+    <Compile Include="Assets\Scripts\DestroyZone.cs" />
+    <Compile Include="Assets\Scripts\Mine\Fire_shooting.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

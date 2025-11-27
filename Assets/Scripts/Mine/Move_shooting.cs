@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Move : MonoBehaviour
+public class Move_shooting : MonoBehaviour
 {
     // Update is called once per frame
     void Update()

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\ez\\documents\\github\\gittest\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\ez\\documents\\github\\gittest\\assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\ez\\documents\\github\\gittest\\assets\\scripts\\mine\\itemspawner_shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mine\\itemspawner_shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAoAAAAAAAAAA==",
+              "Title": "ItemSpawner_shooting.cs",
+              "DocumentMoniker": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Mine\\ItemSpawner_shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mine\\ItemSpawner_shooting.cs",
+              "ToolTip": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Mine\\ItemSpawner_shooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mine\\ItemSpawner_shooting.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T01:58:34.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Fire.cs",
-              "DocumentMoniker": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Fire.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Fire.cs",
-              "ToolTip": "C:\\Users\\ez\\Documents\\GitHub\\GitTest\\Assets\\Scripts\\Fire.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Fire.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T01:05:37.99Z",
+              "WhenOpened": "2025-11-27T03:06:22.495Z",
               "EditorCaption": ""
             }
           ]

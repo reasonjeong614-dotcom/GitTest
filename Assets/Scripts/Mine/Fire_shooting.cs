@@ -8,7 +8,7 @@ using UnityEngine;
 /// + 총알 발사 최적화를 위한 오브젝트 풀링
 /// </summary>
 
-public class Fire : MonoBehaviour
+public class Fire_shooting : MonoBehaviour
 {
     [SerializeField] GameObject bullets;     //총알 프리팹
     [SerializeField] Transform firePoint;    //발사 위치
